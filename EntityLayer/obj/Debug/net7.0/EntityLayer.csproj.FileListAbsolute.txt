@@ -1,0 +1,11 @@
+C:\Users\onurc\source\repos\User\EntityLayer\bin\Debug\net7.0\EntityLayer.deps.json
+C:\Users\onurc\source\repos\User\EntityLayer\bin\Debug\net7.0\EntityLayer.dll
+C:\Users\onurc\source\repos\User\EntityLayer\bin\Debug\net7.0\EntityLayer.pdb
+C:\Users\onurc\source\repos\User\EntityLayer\obj\Debug\net7.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurc\source\repos\User\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\onurc\source\repos\User\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfo.cs
+C:\Users\onurc\source\repos\User\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\onurc\source\repos\User\EntityLayer\obj\Debug\net7.0\EntityLayer.dll
+C:\Users\onurc\source\repos\User\EntityLayer\obj\Debug\net7.0\refint\EntityLayer.dll
+C:\Users\onurc\source\repos\User\EntityLayer\obj\Debug\net7.0\EntityLayer.pdb
+C:\Users\onurc\source\repos\User\EntityLayer\obj\Debug\net7.0\ref\EntityLayer.dll
