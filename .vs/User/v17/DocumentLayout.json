@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\onurc\\source\\repos\\User\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1BD7C84B-C652-4C02-83B1-AA4DDF305C91}|UserMVC\\UserMVC.csproj|c:\\users\\onurc\\source\\repos\\user\\usermvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1BD7C84B-C652-4C02-83B1-AA4DDF305C91}|UserMVC\\UserMVC.csproj|solutionrelative:usermvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD7C84B-C652-4C02-83B1-AA4DDF305C91}|UserMVC\\UserMVC.csproj|c:\\users\\onurc\\source\\repos\\user\\usermvc\\usermvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1BD7C84B-C652-4C02-83B1-AA4DDF305C91}|UserMVC\\UserMVC.csproj|solutionrelative:usermvc\\usermvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D9503B1-D8F3-484F-B744-A62A2D957E46}|UserAPI\\UserAPI.csproj|c:\\users\\onurc\\source\\repos\\user\\userapi\\controllers\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D9503B1-D8F3-484F-B744-A62A2D957E46}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\controllers\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\User\\UserMVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "UserMVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\onurc\\source\\repos\\User\\UserMVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "UserMVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-06T07:58:25.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserMVC",
+              "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\User\\UserMVC\\UserMVC.csproj",
+              "RelativeDocumentMoniker": "UserMVC\\UserMVC.csproj",
+              "ToolTip": "C:\\Users\\onurc\\source\\repos\\User\\UserMVC\\UserMVC.csproj",
+              "RelativeToolTip": "UserMVC\\UserMVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-06T07:56:15.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UserAPIController.cs",
               "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\User\\UserAPI\\Controllers\\UserAPIController.cs",
               "RelativeDocumentMoniker": "UserAPI\\Controllers\\UserAPIController.cs",
